@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdmauroGoma
 - 👀 I’m interested in Competitive Programming and Software devlopment
-- 🌱 I’m currently learning C++ and Rust
+- 🌱 I’m currently learning C++ and java
 - 💞️ I’m looking to collaborate on AOCPC
 
 <div align="center">
