@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and java
 - 💞️ I’m looking to collaborate on AOCPC
 
-<div align="center">
+<div align="Left">
   <a href="https://github.com/EdmauroGoma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmauroGoma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmauroGoma&layout=compact&langs_count=7&theme=dracula"/>
@@ -19,8 +19,9 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/java-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/sprimg-original.svg">
 </div>
   <div> 
- 
- 
+
 </div>
