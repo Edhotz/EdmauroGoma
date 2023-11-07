@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on AOCPC
 
 <div align="Left">
-  <a href="https://github.com/EdmauroGoma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmauroGoma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmauroGoma&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Edhotz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edhotz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edhotz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
